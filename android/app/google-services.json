@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443923969735",
+    "project_id": "meragi-5484d",
+    "storage_bucket": "meragi-5484d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443923969735:android:c1a29efd7dc9f1b882f0e2",
+        "android_client_info": {
+          "package_name": "com.example.meragi_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCxenvOrqjXaB_5IRee7yCzLwFiq-LcpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
